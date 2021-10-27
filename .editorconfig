@@ -1,0 +1,15 @@
+[{.,}*]
+charset = utf-8
+indent_style = space
+indent_size = 2
+end_of_line = lf
+insert_final_newline = true
+
+[*.sh]
+indent_style       = tab
+shell_variant      = posix
+binary_next_line   = false
+switch_case_indent = true
+space_redirects    = false
+keep_padding       = true
+function_next_line = false
